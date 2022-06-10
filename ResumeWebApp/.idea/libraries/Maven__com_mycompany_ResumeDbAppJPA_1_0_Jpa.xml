@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mycompany:ResumeDbAppJPA:1.0-Jpa">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mycompany/ResumeDbAppJPA/1.0-Jpa/ResumeDbAppJPA-1.0-Jpa.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mycompany/ResumeDbAppJPA/1.0-Jpa/ResumeDbAppJPA-1.0-Jpa-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mycompany/ResumeDbAppJPA/1.0-Jpa/ResumeDbAppJPA-1.0-Jpa-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
